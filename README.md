@@ -12,6 +12,6 @@
 4. Print the total population of countries using reduce method
  -  HTML file in : population.html 
  - js file in : population.js
-5.Print the country that uses US dollars as currency.
+5. Print the country that uses US dollars as currency.
 -  HTML file in : USdollars.html 
  - js file in : USdollars.js
