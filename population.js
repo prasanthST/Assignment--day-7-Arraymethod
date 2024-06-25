@@ -1,4 +1,4 @@
-// // D)Print the total population of countries using reduce method
+//  D)Print the total population of countries using reduce method
 
 const req = new XMLHttpRequest();
 req.addEventListener("load", reqListener);
