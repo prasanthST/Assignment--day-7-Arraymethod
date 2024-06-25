@@ -8,7 +8,7 @@
  - js file in : population-2lk.js
 3. Print the following details name, capital, flag, using forEach method
  -  HTML file in : name-capital-flag.html 
- - js file in :name-capital-flag.js
+ - js file in : name-capital-flag.js
 4. Print the total population of countries using reduce method
  -  HTML file in : population.html 
  - js file in : population.js
